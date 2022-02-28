@@ -40,6 +40,11 @@ li{
     list-style-type:none;
 }
 
+a{
+    color: #3882f6;
+    text-decoration: none;
+}
+
 .header_content{
     display: flex;
     align-items: center;
@@ -123,4 +128,12 @@ button{
     padding: 10px 50px;
     margin: 50px 600px;
     border-radius: 9px;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f2937;
+    color: #e5e7eb;
 }
