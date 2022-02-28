@@ -96,6 +96,8 @@ button{
     border-radius: 5px;
     box-shadow: none;
     border: #e5e7eb 2px solid;
+    min-width: 100px;
+    height: auto;
 }
 
 .citation{
